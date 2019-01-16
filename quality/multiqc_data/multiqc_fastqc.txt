@@ -1,0 +1,21 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+0Hour_ATCACG_L002_R1_001	0Hour_ATCACG_L002_R1_001.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	84.28	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R1_002	0Hour_ATCACG_L002_R1_002.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.44	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R1_003	0Hour_ATCACG_L002_R1_003.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.39999999999999	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R1_004	0Hour_ATCACG_L002_R1_004.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.72	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R1_005	0Hour_ATCACG_L002_R1_005.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.72	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R2_001	0Hour_ATCACG_L002_R2_001.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	46.0	93.47999999999999	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+0Hour_ATCACG_L002_R2_002	0Hour_ATCACG_L002_R2_002.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	95.16	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	warn	pass
+0Hour_ATCACG_L002_R2_003	0Hour_ATCACG_L002_R2_003.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	95.32000000000001	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	warn	pass
+0Hour_ATCACG_L002_R2_004	0Hour_ATCACG_L002_R2_004.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	95.52000000000001	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	warn	pass
+0Hour_ATCACG_L002_R2_005	0Hour_ATCACG_L002_R2_005.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	95.96000000000001	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	warn	pass
+6Hour_CGATGT_L002_R1_001	6Hour_CGATGT_L002_R1_001.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	82.84	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R1_002	6Hour_CGATGT_L002_R1_002.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.84	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R1_003	6Hour_CGATGT_L002_R1_003.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	82.92	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R1_004	6Hour_CGATGT_L002_R1_004.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	83.16	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R1_005	6Hour_CGATGT_L002_R1_005.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	48.0	84.48	101.0	pass	pass	pass	pass	fail	warn	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R2_001	6Hour_CGATGT_L002_R2_001.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	89.24	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R2_002	6Hour_CGATGT_L002_R2_002.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	91.8	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	warn	pass
+6Hour_CGATGT_L002_R2_003	6Hour_CGATGT_L002_R2_003.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	90.75999999999999	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass
+6Hour_CGATGT_L002_R2_004	6Hour_CGATGT_L002_R2_004.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	90.96	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	warn	pass
+6Hour_CGATGT_L002_R2_005	6Hour_CGATGT_L002_R2_005.fastq	Conventional base calls	Sanger / Illumina 1.9	2500.0	0.0	101.0	45.0	94.48	101.0	pass	pass	pass	pass	fail	fail	pass	pass	pass	warn	pass

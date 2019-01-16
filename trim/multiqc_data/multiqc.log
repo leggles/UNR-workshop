@@ -1,0 +1,149 @@
+[2019-01-15 17:24:35,079] multiqc                                            [DEBUG  ]  No MultiQC config found: /opt/miniconda3/lib/python3.6/site-packages/multiqc_config.yaml
+[2019-01-15 17:24:35,079] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/leggles/.multiqc_config.yaml
+[2019-01-15 17:24:35,079] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2019-01-15 17:24:35,080] multiqc                                            [DEBUG  ]  Command used: /opt/miniconda3/bin/multiqc .
+[2019-01-15 17:24:36,010] multiqc                                            [WARNING]  MultiQC Version v1.7 now available!
+[2019-01-15 17:24:36,011] multiqc                                            [INFO   ]  This is MultiQC v1.6
+[2019-01-15 17:24:36,011] multiqc                                            [DEBUG  ]  Command     : /opt/miniconda3/bin/multiqc .
+[2019-01-15 17:24:36,011] multiqc                                            [DEBUG  ]  Working dir : /home/leggles/work/trim
+[2019-01-15 17:24:36,012] multiqc                                            [INFO   ]  Template    : default
+[2019-01-15 17:24:36,012] multiqc                                            [INFO   ]  Searching '.'
+[2019-01-15 17:24:36,013] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, dedup, picard, prokka, samblaster, samtools, bamtools, jellyfish, vcftools, longranger, bbmap, bismark, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, clusterflow, bcl2fastq, interop
+[2019-01-15 17:24:36,014] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpy7jpeyvs
+[2019-01-15 17:24:36,086] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_003.fastq
+[2019-01-15 17:24:36,086] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_005.fastq
+[2019-01-15 17:24:36,087] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_003.fastq
+[2019-01-15 17:24:36,087] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_001.fastq
+[2019-01-15 17:24:36,097] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_004.qc.fq.gz
+[2019-01-15 17:24:36,097] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_003.fastq
+[2019-01-15 17:24:36,098] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_002.fastq
+[2019-01-15 17:24:36,098] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_002.qc.fq.gz
+[2019-01-15 17:24:36,098] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_004.fastq
+[2019-01-15 17:24:36,099] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_001.fastq
+[2019-01-15 17:24:36,099] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_003.qc_fastqc.html
+[2019-01-15 17:24:36,099] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_005.qc_fastqc.html
+[2019-01-15 17:24:36,100] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_004.qc.fq.gz
+[2019-01-15 17:24:36,100] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_004.qc.fq.gz
+[2019-01-15 17:24:36,100] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: combined.fa
+[2019-01-15 17:24:36,100] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_003.qc.fq.gz
+[2019-01-15 17:24:36,101] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_001.fastq
+[2019-01-15 17:24:36,101] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_005.qc.fq.gz
+[2019-01-15 17:24:36,102] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_004.fastq
+[2019-01-15 17:24:36,102] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_005.qc.fq.gz
+[2019-01-15 17:24:36,102] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_005.fastq
+[2019-01-15 17:24:36,103] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_001.qc.fq.gz
+[2019-01-15 17:24:36,104] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_004.qc_fastqc.html
+[2019-01-15 17:24:36,104] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_005.qc.fq.gz
+[2019-01-15 17:24:36,105] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_002.qc_fastqc.html
+[2019-01-15 17:24:36,106] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_005.qc_fastqc.html
+[2019-01-15 17:24:36,107] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_003.qc.fq.gz
+[2019-01-15 17:24:36,107] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_002.qc.fq.gz
+[2019-01-15 17:24:36,109] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: orphans.qc.fq.gz
+[2019-01-15 17:24:36,109] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_001.qc_fastqc.html
+[2019-01-15 17:24:36,110] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_001.qc_fastqc.html
+[2019-01-15 17:24:36,110] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_002.qc_fastqc.html
+[2019-01-15 17:24:36,110] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_003.qc_fastqc.html
+[2019-01-15 17:24:36,110] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_003.qc.fq.gz
+[2019-01-15 17:24:36,111] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_001.qc.fq.gz
+[2019-01-15 17:24:36,111] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_002.fastq
+[2019-01-15 17:24:36,112] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_002.qc_fastqc.html
+[2019-01-15 17:24:36,112] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_001.qc_fastqc.html
+[2019-01-15 17:24:36,112] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_003.qc_fastqc.html
+[2019-01-15 17:24:36,112] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_004.fastq
+[2019-01-15 17:24:36,113] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_004.qc_fastqc.html
+[2019-01-15 17:24:36,113] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_004.qc_fastqc.html
+[2019-01-15 17:24:36,113] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_005.qc_fastqc.html
+[2019-01-15 17:24:36,114] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_002.fastq
+[2019-01-15 17:24:36,115] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_003.qc.fq.gz
+[2019-01-15 17:24:36,115] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_001.qc.fq.gz
+[2019-01-15 17:24:36,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_001.qc.fq.gz
+[2019-01-15 17:24:36,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_005.fastq
+[2019-01-15 17:24:36,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_003.fastq
+[2019-01-15 17:24:36,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_002.qc_fastqc.html
+[2019-01-15 17:24:36,117] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_002.qc.fq.gz
+[2019-01-15 17:24:36,117] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_004.fastq
+[2019-01-15 17:24:36,118] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_002.qc.fq.gz
+[2019-01-15 17:24:36,118] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_002.fastq
+[2019-01-15 17:24:36,118] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_001.qc_fastqc.html
+[2019-01-15 17:24:36,118] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_005.qc_fastqc.html
+[2019-01-15 17:24:36,119] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R2_005.qc.fq.gz
+[2019-01-15 17:24:36,119] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_004.qc_fastqc.html
+[2019-01-15 17:24:36,119] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R1_005.fastq
+[2019-01-15 17:24:36,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_004.qc.fq.gz
+[2019-01-15 17:24:36,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 0Hour_ATCACG_L002_R2_001.fastq
+[2019-01-15 17:24:36,121] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: 6Hour_CGATGT_L002_R1_003.qc_fastqc.html
+[2019-01-15 17:24:36,459] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2019-01-15 17:24:36,464] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2019-01-15 17:24:36,496] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2019-01-15 17:24:36,502] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2019-01-15 17:24:36,508] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2019-01-15 17:24:36,514] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2019-01-15 17:24:36,520] multiqc                                            [DEBUG  ]  No samples found: quast
+[2019-01-15 17:24:36,526] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2019-01-15 17:24:36,531] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2019-01-15 17:24:36,537] multiqc                                            [DEBUG  ]  No samples found: rsem
+[2019-01-15 17:24:36,546] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2019-01-15 17:24:36,551] multiqc                                            [DEBUG  ]  No samples found: busco
+[2019-01-15 17:24:36,557] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2019-01-15 17:24:36,562] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2019-01-15 17:24:36,568] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2019-01-15 17:24:36,576] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2019-01-15 17:24:36,581] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2019-01-15 17:24:36,587] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2019-01-15 17:24:36,593] multiqc                                            [DEBUG  ]  No samples found: mirtrace
+[2019-01-15 17:24:36,598] multiqc                                            [DEBUG  ]  No samples found: happy
+[2019-01-15 17:24:36,604] multiqc                                            [DEBUG  ]  No samples found: homer
+[2019-01-15 17:24:36,610] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2019-01-15 17:24:36,615] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2019-01-15 17:24:36,621] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2019-01-15 17:24:36,628] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2019-01-15 17:24:36,633] multiqc                                            [DEBUG  ]  No samples found: htseq
+[2019-01-15 17:24:36,639] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2019-01-15 17:24:36,645] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2019-01-15 17:24:36,650] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2019-01-15 17:24:36,661] multiqc                                            [DEBUG  ]  No samples found: picard
+[2019-01-15 17:24:36,666] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2019-01-15 17:24:36,672] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2019-01-15 17:24:36,679] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2019-01-15 17:24:36,685] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2019-01-15 17:24:36,690] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2019-01-15 17:24:36,701] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2019-01-15 17:24:36,706] multiqc                                            [DEBUG  ]  No samples found: longranger
+[2019-01-15 17:24:36,716] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2019-01-15 17:24:36,722] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2019-01-15 17:24:36,728] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2019-01-15 17:24:36,733] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2019-01-15 17:24:36,739] multiqc                                            [DEBUG  ]  No samples found: hicpro
+[2019-01-15 17:24:36,744] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2019-01-15 17:24:36,750] multiqc                                            [DEBUG  ]  No samples found: kallisto
+[2019-01-15 17:24:36,755] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2019-01-15 17:24:36,761] multiqc                                            [DEBUG  ]  No samples found: star
+[2019-01-15 17:24:36,766] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2019-01-15 17:24:36,772] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2019-01-15 17:24:36,777] multiqc                                            [DEBUG  ]  No samples found: bowtie2
+[2019-01-15 17:24:36,782] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2019-01-15 17:24:36,788] multiqc                                            [DEBUG  ]  No samples found: kat
+[2019-01-15 17:24:36,793] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2019-01-15 17:24:36,800] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2019-01-15 17:24:36,805] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2019-01-15 17:24:36,811] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2019-01-15 17:24:36,816] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2019-01-15 17:24:36,821] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2019-01-15 17:24:36,827] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2019-01-15 17:24:36,832] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2019-01-15 17:24:36,838] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2019-01-15 17:24:36,843] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2019-01-15 17:24:36,848] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2019-01-15 17:24:36,854] multiqc                                            [DEBUG  ]  No samples found: fastp
+[2019-01-15 17:24:37,002] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 20 reports
+[2019-01-15 17:24:37,728] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2019-01-15 17:24:37,734] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2019-01-15 17:24:37,740] multiqc                                            [DEBUG  ]  No samples found: interop
+[2019-01-15 17:24:37,797] multiqc                                            [INFO   ]  Compressing plot data
+[2019-01-15 17:24:38,372] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2019-01-15 17:24:38,372] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2019-01-15 17:24:38,372] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpy7jpeyvs/multiqc_data/multiqc_data.json' to '/home/leggles/work/trim/multiqc_data'
+[2019-01-15 17:24:38,373] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpy7jpeyvs/multiqc_data/multiqc_fastqc.txt' to '/home/leggles/work/trim/multiqc_data'
+[2019-01-15 17:24:38,373] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpy7jpeyvs/multiqc_data/multiqc_general_stats.txt' to '/home/leggles/work/trim/multiqc_data'
+[2019-01-15 17:24:38,373] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpy7jpeyvs/multiqc_data/multiqc_sources.txt' to '/home/leggles/work/trim/multiqc_data'
+[2019-01-15 17:24:38,578] multiqc                                            [INFO   ]  MultiQC complete
